@@ -1,0 +1,17 @@
+{
+  "name": "To Go Coffee — Fresh Coffee. Fast Service. Anytime.",
+  "short_name": "To Go Coffee",
+  "description": "Premium mobile coffee cart in Vesu, Surat. Order coffee, cold brew, matcha & more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#8B0000",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "categories": ["food", "shopping", "lifestyle"]
+}
